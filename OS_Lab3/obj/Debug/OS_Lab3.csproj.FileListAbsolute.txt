@@ -1,0 +1,5 @@
+E:\projects\OS_Lab3\OS_Lab3\bin\Debug\OS_Lab3.exe
+E:\projects\OS_Lab3\OS_Lab3\bin\Debug\OS_Lab3.pdb
+E:\projects\OS_Lab3\OS_Lab3\obj\Debug\OS_Lab3.csprojAssemblyReference.cache
+E:\projects\OS_Lab3\OS_Lab3\obj\Debug\OS_Lab3.exe
+E:\projects\OS_Lab3\OS_Lab3\obj\Debug\OS_Lab3.pdb
